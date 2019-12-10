@@ -31,7 +31,7 @@ CLASS net/minecraft/class_1041 net/minecraft/client/util/Window
 		ARG 5 title
 	METHOD method_15997 setScaleFactor (D)V
 		ARG 1 scaleFactor
-	METHOD method_15998 setFullscreen ()V
+	METHOD method_15998 afoo ()V
 	METHOD method_15999 setFramerateLimit (I)V
 	METHOD method_16000 getFramerateLimit ()I
 	METHOD method_20831 getMonitor ()Lnet/minecraft/class_313;
